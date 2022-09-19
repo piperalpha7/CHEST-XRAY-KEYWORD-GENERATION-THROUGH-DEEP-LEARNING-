@@ -28,7 +28,10 @@ Model1
 - GreedyMod1.pkl - Intermediate Pickle file containing the Patient_ID,Predicted Caption(Impression) and Generated Caption(Impression) ONLY
 - Losses1.txt - Text file containing the Training and Validation Loss Data.Created a seperate function to take this file as input and return a 'Loss vs Epoch' plot
 - Model1.PNG - Schematic diagram for Model1
-- Model1.h5 -Saved Model1 
+- Model1.h5 -Saved Model1
+- Results_Model1 - Folder containing some results pertaining to the particular model. The files inside this folder are in '.png' format. For example
+
+![Result associated with Model2](Model2/Results_Model2/4.PNG)
 
 The structure of the folders Model2,Model3,Model4,Model6,Model7,Model8 is the same.
 
